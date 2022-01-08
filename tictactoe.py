@@ -1,3 +1,5 @@
+# 게임말고는 아무기능이 없는 Basic 틱택토입니다.
+
 import pygame # 1. pygame 선언
 pygame.init() # 2. pygame 초기화
 # 3. pygame에 사용되는 전역변수 선언
